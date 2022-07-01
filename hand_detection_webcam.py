@@ -40,8 +40,8 @@ res=''
 res1=''
 mp3_file = 0
 output_mp3_file = 0
-rep_letters = 'C:\\Users\\ismail\\Desktop\\Agile\\morr\\Moroccan-Sign-Language\\history\\letters\\voice'
-rep_words = 'C:\\Users\\ismail\\Desktop\\Agile\\morr\\Moroccan-Sign-Language\\history\\words\\voice'
+rep_letters = 'C:\\Users\\Reda\\Desktop\\Agile\\morr\\Moroccan-Sign-Language\\history\\letters\\voice'
+rep_words = 'C:\\Users\\Reda\\Desktop\\Agile\\morr\\Moroccan-Sign-Language\\history\\words\\voice'
 
 def speak(text,path,mp3) :
     # rep = 'C:\\Users\\kaout\\irisi4\\MA\\mp\\220522_2\\MSL\\history\\voice'
